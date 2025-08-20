@@ -2,7 +2,7 @@
   "name": "fusion-starter",
   "private": true,
   "type": "module",
-  "homepage": "https://nextgen123.github.io/GreenVolt-EV-Hub",
+  "homepage": "https://Prabha181.github.io/GreenVolt",
   "pkg": {
     "assets": [
       "dist/spa/*"
@@ -21,8 +21,7 @@
     "format.fix": "prettier --write .",
     "typecheck": "tsc",
     "predeploy": "npm run build",
-     "deploy": "gh-pages -d build"
-
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.0.0",
@@ -81,7 +80,6 @@
     "date-fns": "^4.1.0",
     "embla-carousel-react": "^8.6.0",
     "framer-motion": "^12.23.12",
-    "gh-pages": "^6.3.0",
     "globals": "^16.3.0",
     "input-otp": "^1.4.2",
     "lucide-react": "^0.539.0",
